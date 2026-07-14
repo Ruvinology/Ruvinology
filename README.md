@@ -44,6 +44,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+<h3 data-importer="text" align="center">🔥   My Stats </h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Ruvinology&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 ###
 
 <h2 data-importer="text" align="left">🌐 Connect With Me</h2>
