@@ -1,5 +1,5 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQwMTc3NTAsIm5iZiI6MTc4NDAxNzQ1MCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE0VDA4MjQxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZjNDQxYWYxZDExZDA0NWMyMWRjOGY2ZjUxMjI3NDQwNmY1NDIxMjU0MWRhZjQ2NzcxNWY4ZmY5MmYyY2JhMDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.QKWWPS_1OpSOlhUnFqpRu43B4Jyen47pcLd1KEfKOrg"  />
+<div align="center">
+  <img height="200" src="./assets/coding.gif" alt="Coding animation" />
 </div>
 
 ###
