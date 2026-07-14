@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="./assets/github.gif" alt="Coding animation" />
+  <img height="200" src="https://github.com/Ruvinology/Ruvinology/blob/main/assests/github.gif" alt="Coding animation" />
 </div>
 
 ###
