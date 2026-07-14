@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="./assets/coding.gif" alt="Coding animation" />
+  <img height="200" src="./assets/github.gif" alt="Coding animation" />
 </div>
 
 ###
